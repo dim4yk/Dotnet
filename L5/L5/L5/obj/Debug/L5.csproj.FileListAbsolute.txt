@@ -1,0 +1,7 @@
+D:\STUDY\C4\NET\L5\L5\L5\bin\Debug\L5.exe.config
+D:\STUDY\C4\NET\L5\L5\L5\bin\Debug\L5.exe
+D:\STUDY\C4\NET\L5\L5\L5\bin\Debug\L5.pdb
+D:\STUDY\C4\NET\L5\L5\L5\obj\Debug\L5.csprojResolveAssemblyReference.cache
+D:\STUDY\C4\NET\L5\L5\L5\obj\Debug\L5.csproj.CoreCompileInputs.cache
+D:\STUDY\C4\NET\L5\L5\L5\obj\Debug\L5.exe
+D:\STUDY\C4\NET\L5\L5\L5\obj\Debug\L5.pdb

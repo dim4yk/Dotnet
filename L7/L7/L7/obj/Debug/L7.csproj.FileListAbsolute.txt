@@ -1,0 +1,7 @@
+D:\STUDY\C4\NET\L7\L7\L7\bin\Debug\L7.exe.config
+D:\STUDY\C4\NET\L7\L7\L7\bin\Debug\L7.exe
+D:\STUDY\C4\NET\L7\L7\L7\bin\Debug\L7.pdb
+D:\STUDY\C4\NET\L7\L7\L7\obj\Debug\L7.csprojResolveAssemblyReference.cache
+D:\STUDY\C4\NET\L7\L7\L7\obj\Debug\L7.csproj.CoreCompileInputs.cache
+D:\STUDY\C4\NET\L7\L7\L7\obj\Debug\L7.exe
+D:\STUDY\C4\NET\L7\L7\L7\obj\Debug\L7.pdb

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Simon</Name>
+  <Surname>Willson</Surname>
+  <Date>1991-03-02T00:00:00</Date>
+  <FormOfEducation>Master</FormOfEducation>
+  <Group>222</Group>
+  <ExamsList>
+    <Exam>
+      <Subject>Math</Subject>
+      <Mark>5</Mark>
+      <Date>2017-06-03T00:00:00</Date>
+    </Exam>
+    <Exam>
+      <Subject>Computer science</Subject>
+      <Mark>4</Mark>
+      <Date>2017-06-09T00:00:00</Date>
+    </Exam>
+    <Exam>
+      <Subject>Economy</Subject>
+      <Mark>3</Mark>
+      <Date>2017-06-04T00:00:00</Date>
+    </Exam>
+    <Exam>
+      <Subject>Math</Subject>
+      <Mark>4</Mark>
+      <Date>2017-01-10T00:00:00</Date>
+    </Exam>
+  </ExamsList>
+  <TestsList>
+    <Test>
+      <Subject>Math</Subject>
+      <InfoTest>false</InfoTest>
+    </Test>
+    <Test>
+      <Subject>English</Subject>
+      <InfoTest>true</InfoTest>
+    </Test>
+  </TestsList>
+</Student>
